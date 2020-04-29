@@ -1,0 +1,18 @@
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\UsefulGeometryClass\bin\Debug\UsefulGeometryClass.dll
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\UsefulGeometryClass\bin\Debug\UsefulGeometryClass.pdb
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\UsefulGeometryClass\obj\Debug\ResolveAssemblyReference.cache
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\UsefulGeometryClass\obj\Debug\UsefulGeometryClass.dll
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\UsefulGeometryClass\obj\Debug\UsefulGeometryClass.pdb
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\UsefulGeometryClass\obj\Debug\ResolveAssemblyReference.cache
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\UsefulGeometryClass\obj\Debug\UsefulGeometryClass.dll
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\UsefulGeometryClass\obj\Debug\UsefulGeometryClass.pdb
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\UsefulGeometryClass\bin\Debug\UsefulGeometryClass.dll
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\UsefulGeometryClass\bin\Debug\UsefulGeometryClass.pdb
+E:\井瑞\AutoCAD VBA _ VB.NET开发基础与实例教程\AutoCAD VBA _ VB.NET开发基础与实例教程\Chap08\UsefulGeometryClass\obj\Debug\UsefulGeometryClass.dll
+E:\井瑞\AutoCAD VBA _ VB.NET开发基础与实例教程\AutoCAD VBA _ VB.NET开发基础与实例教程\Chap08\UsefulGeometryClass\obj\Debug\UsefulGeometryClass.pdb
+E:\井瑞\AutoCAD VBA _ VB.NET开发基础与实例教程\AutoCAD VBA _ VB.NET开发基础与实例教程\Chap08\UsefulGeometryClass\bin\Debug\UsefulGeometryClass.dll
+E:\井瑞\AutoCAD VBA _ VB.NET开发基础与实例教程\AutoCAD VBA _ VB.NET开发基础与实例教程\Chap08\UsefulGeometryClass\bin\Debug\UsefulGeometryClass.pdb
+E:\Study\Chap08\Chap08\UsefulGeometryClass\obj\Debug\UsefulGeometryClass.dll
+E:\Study\Chap08\Chap08\UsefulGeometryClass\obj\Debug\UsefulGeometryClass.pdb
+E:\Study\Chap08\Chap08\UsefulGeometryClass\bin\Debug\UsefulGeometryClass.dll
+E:\Study\Chap08\Chap08\UsefulGeometryClass\bin\Debug\UsefulGeometryClass.pdb

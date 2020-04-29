@@ -1,0 +1,13 @@
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\TranlateCoordinate\obj\Debug\ResolveAssemblyReference.cache
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\TranlateCoordinate\bin\Debug\TranlateCoordinate.dll
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\TranlateCoordinate\bin\Debug\TranlateCoordinate.pdb
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\TranlateCoordinate\obj\Debug\TranlateCoordinate.dll
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\TranlateCoordinate\obj\Debug\TranlateCoordinate.pdb
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\TranlateCoordinate\bin\Debug\TranlateCoordinate.dll
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\TranlateCoordinate\bin\Debug\TranlateCoordinate.pdb
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\TranlateCoordinate\obj\Debug\ResolveAssemblyReference.cache
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\TranlateCoordinate\obj\Debug\TranlateCoordinate.dll
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\TranlateCoordinate\obj\Debug\TranlateCoordinate.pdb
+E:\Study\Chap08\Chap08\TranlateCoordinate\obj\Debug\TranlateCoordinate.csprojResolveAssemblyReference.cache
+E:\Study\Chap08\Chap08\TranlateCoordinate\obj\Debug\TranlateCoordinate.dll
+E:\Study\Chap08\Chap08\TranlateCoordinate\obj\Debug\TranlateCoordinate.pdb

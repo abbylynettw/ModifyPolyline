@@ -1,0 +1,13 @@
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\PointIsInPolyline\obj\Debug\ResolveAssemblyReference.cache
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\PointIsInPolyline\bin\Debug\PointIsInPolyline.dll
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\PointIsInPolyline\bin\Debug\PointIsInPolyline.pdb
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\PointIsInPolyline\obj\Debug\PointIsInPolyline.dll
+D:\工作资料\撰写图书\AutoCAD VBA & VB.NET开发教程（第二版）\ArxDotNetBook\PointIsInPolyline\obj\Debug\PointIsInPolyline.pdb
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\PointIsInPolyline\obj\Debug\ResolveAssemblyReference.cache
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\PointIsInPolyline\obj\Debug\PointIsInPolyline.dll
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\PointIsInPolyline\obj\Debug\PointIsInPolyline.pdb
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\PointIsInPolyline\bin\Debug\PointIsInPolyline.dll
+F:\AutoCAD二次开发教程\AutoCAD资料\Book\程序\8章\Chap08\PointIsInPolyline\bin\Debug\PointIsInPolyline.pdb
+E:\Study\Chap08\Chap08\PointIsInPolyline\obj\Debug\PointIsInPolyline.csprojResolveAssemblyReference.cache
+E:\Study\Chap08\Chap08\PointIsInPolyline\obj\Debug\PointIsInPolyline.dll
+E:\Study\Chap08\Chap08\PointIsInPolyline\obj\Debug\PointIsInPolyline.pdb

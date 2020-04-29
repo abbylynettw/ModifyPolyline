@@ -1,0 +1,8 @@
+E:\井瑞\AutoCAD VBA _ VB.NET开发基础与实例教程\AutoCAD VBA _ VB.NET开发基础与实例教程\Chap08\UsefulGeometryClass\bin\Release\UsefulGeometryClass.dll
+E:\井瑞\AutoCAD VBA _ VB.NET开发基础与实例教程\AutoCAD VBA _ VB.NET开发基础与实例教程\Chap08\UsefulGeometryClass\bin\Release\UsefulGeometryClass.pdb
+E:\井瑞\AutoCAD VBA _ VB.NET开发基础与实例教程\AutoCAD VBA _ VB.NET开发基础与实例教程\Chap08\UsefulGeometryClass\obj\Release\UsefulGeometryClass.dll
+E:\井瑞\AutoCAD VBA _ VB.NET开发基础与实例教程\AutoCAD VBA _ VB.NET开发基础与实例教程\Chap08\UsefulGeometryClass\obj\Release\UsefulGeometryClass.pdb
+E:\Study\Chap08\Chap08\UsefulGeometryClass\bin\Release\UsefulGeometryClass.dll
+E:\Study\Chap08\Chap08\UsefulGeometryClass\bin\Release\UsefulGeometryClass.pdb
+E:\Study\Chap08\Chap08\UsefulGeometryClass\obj\Release\UsefulGeometryClass.dll
+E:\Study\Chap08\Chap08\UsefulGeometryClass\obj\Release\UsefulGeometryClass.pdb
